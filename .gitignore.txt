@@ -1,0 +1,14 @@
+# Ignore Gradle build files
+/build/
+/out/
+/gradle/
+.gradle/
+gradlew
+gradlew.bat
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Sensitive configuration
+config.properties
